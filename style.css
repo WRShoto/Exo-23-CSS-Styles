@@ -1,1 +1,29 @@
+body {
+    font-family: arial, sans-serif;
+    line-height: 3.5;
+    font-size: 13px;
+}
 
+h1 {
+    font-family:Arial, Serif;
+    font-size: 18px;
+    color: #454545;
+    font-weight: bolder;
+}
+
+p{
+    margin-left: 25px;
+    text-decoration-color:#7a7a7a;
+}
+
+blockquote{
+    font-style: italic;
+    font-size: 14px;
+    background-color:#e7f2fa;
+    text-decoration-color:#444;
+}
+
+
+a{
+    color:#8870FF
+}
